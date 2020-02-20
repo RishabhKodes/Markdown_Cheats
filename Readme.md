@@ -16,7 +16,7 @@ Strikethrough:
 ---
 **Images:**
 
- ![A Sample Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw39FnCdQrUV-i9YaAnGHxJ1&ust=1582285935290000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICbl8uI4OcCFQAAAAAdAAAAABAD)
+ ![A Sample Image](https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=1390&crop=1)
 ---
 **To Input code:**
 `var name = e33or_assasin`
