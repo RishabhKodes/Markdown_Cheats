@@ -1,8 +1,8 @@
 Normal Text
 
-#Heading 1
+#Heading 1#
 ---
-##Heading 2
+##Heading 2##
 ---
 _Italics_
 ---
@@ -15,7 +15,7 @@ Links:
 [Visit Website](https://github.com/RishabhKodes "Rishabh's GitHub")
 ---
 Images:
-![A Sample Image](https://tinyurl.com/taovs2z)
+ ![A Sample Image](https://tinyurl.com/taovs2z)
 ---
 To Input code:
 `var name = e33or_assasin`
