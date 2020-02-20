@@ -1,5 +1,3 @@
-Normal Text
-
 # Heading 1
 ---
 ## Check readme.md for code!
