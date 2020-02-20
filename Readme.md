@@ -1,8 +1,8 @@
 Normal Text
 
-#Heading 1#
+# Heading 1
 ---
-##Heading 2##
+## Check readme.md for code!
 ---
 _Italics_
 ---
