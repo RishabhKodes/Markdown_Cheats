@@ -2,9 +2,7 @@ Normal Text
 
 # Heading 1
 ---
-## Check 
-_readme.md_ 
-# for code!
+## Check readme.md for code!
 ---
 _Italics_
 ---
