@@ -1,6 +1,6 @@
 # Heading 1
 ---
-## Check readme.md for code!
+## Go to Readme.md and view in raw mode for code!
 ---
 _Italics_
 ---
