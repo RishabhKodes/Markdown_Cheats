@@ -45,6 +45,8 @@ Unordered List:
 ---
 **To insert Badges:**
 
+To use badges, import readymade svg files online. Like these:
+
 [![Believe](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/RishabhKodes/Markdown_Cheats/) 
 [![Become](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/RishabhKodes/Markdown_Cheats/)
 
