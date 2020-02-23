@@ -52,7 +52,9 @@ To use badges, import ready made svg files online. Like these:
 
 ---
 **To use GIFs**
-![DaftPunk Octocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
+DaftPunk Octocat
+
+![](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
 
 
