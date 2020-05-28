@@ -58,6 +58,9 @@ DaftPunk Octocat
 ![](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
 
-
+---
+<p align="center">
+Made with :heart: by e33or_assasin
+</p>
 
 
